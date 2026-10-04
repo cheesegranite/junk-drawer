@@ -2,4 +2,4 @@ moth
 fixed ant
 cicada
 flea
-spider
+mosquito
