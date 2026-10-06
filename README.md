@@ -22,3 +22,8 @@ obfuscated code that obfuscates your code (wow)
 go click that button
 
 --> [view file](https://github.com/cheesegranite/junk-drawer/blob/main/bytebeats.md) <--
+
+# timer.py
+`time.sleep(1)` will be approximately 1
+
+--> [view file](https://github.com/cheesegranite/junk-drawer/blob/main/timer.py) <--
