@@ -12,7 +12,7 @@ all files, from oldest to newest
 
 [bugs.txt](https://github.com/cheesegranite/junk-drawer/blob/main/bugs.txt)
 
-[obfuscator.py](http://ha.mr#👩🏻‍🚀👩🏿‍🦲🖇️🧑🏻‍🤝‍🧑🏿🇩🇴😥🧑🏿‍🦱🏃🏻‍♀️‍➡️🧎🏾‍➡️🚣🏻‍♀️👩🏾‍🎤👩🏽‍❤️‍👨🏼🧛🏽‍♀️🧑🏿🧑🏽‍💼🌰📺🧙🏽‍♀️🧎🏿‍♂️💆🏻‍♀️👩🏼‍🦳🪾👩🏼‍❤️‍💋‍👩🏽👨🏼‍❤️‍💋‍👨🏾)
+[python_obfuscator.py](http://ha.mr#👩🏻‍🚀👩🏿‍🦲🖇️🧑🏻‍🤝‍🧑🏿🇩🇴😥🧑🏿‍🦱🏃🏻‍♀️‍➡️🧎🏾‍➡️🚣🏻‍♀️👩🏾‍🎤👩🏽‍❤️‍👨🏼🧛🏽‍♀️🧑🏿🧑🏽‍💼🌰📺🧙🏽‍♀️🧎🏿‍♂️💆🏻‍♀️👩🏼‍🦳🪾👩🏼‍❤️‍💋‍👩🏽👨🏼‍❤️‍💋‍👨🏾)
 
 [bytebeats.md](https://github.com/cheesegranite/junk-drawer/blob/main/bytebeats.md)
 
@@ -21,5 +21,7 @@ all files, from oldest to newest
 [badcompressor.py](https://github.com/cheesegranite/junk-drawer/blob/main/badcompressor.py)
 
 [fbvlve_anything.py](https://github.com/cheesegranite/junk-drawer/blob/main/fbvlve_anything.py)
+
+[bytebeat_obfuscator.py](https://ha.mr#👩🏻‍🚀👩🏿‍🦲🖇️🧑🏻‍🤝‍🧑🏿🇩🇴😥🧑🏿‍🦱🏃🏻‍♀️‍➡️🧎🏾‍➡️🚣🏻‍♀️👩🏾‍🎤👩🏽‍❤️‍👨🏼🧛🏽‍♀️🧑🏿🧑🏽‍💼🌰📺🧙🏽‍♀️🧎🏿‍♂️💆🏻‍♀️👩🏼‍🦳🪾👩🏼‍❤️‍💋‍👩🏽👨🏼‍❤️‍💋‍👨🏾 )
 
 ###### newest
