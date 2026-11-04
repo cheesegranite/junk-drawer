@@ -11,38 +11,38 @@ Legend:
 - never worked: 🚫
 - not tested: ❔
 
-| Capability | Before 2026 | Jan-Jun 2026 | Jul-Oct 2026 | Nov 2026 |
-| --- | --- | --- | --- | --- |
-| tray opening                  | ✅ | ✅ | ✅ | ⚠️ |
-| tray closing                  | ✅ | ✅ | ✅ | ⚠️ |
-| tray locking                  | ✅ | ✅ | ⚠️ | ❌ |
-| manual emergency eject        | ✅ | ✅ | ✅ | ⚠️ |
-| disc spinning                 | ✅ | ✅ | ✅ | ⚠️ |
-| CD-ROM recognition            | ✅ | ✅ | ✅ | ❌ |
-| CD-R recognition              | ❔ | ❔ | ❔ | ❔ |
-| CD-RW recognition             | ❔ | ❔ | ❔ | ❔ |
-| DVD-ROM recognition           | ❔ | ❔ | ❔ | ❔ |
-| DVD-R recognition             | ❔ | ❔ | ✅ | ❌ |
-| DVD-RW recognition            | ❔ | ❔ | ✅ | ❌ |
-| DVD+R recognition             | ❔ | ❔ | ❔ | ❔ |
-| DVD+RW recognition            | ❔ | ❔ | ❔ | ❔ |
-| BD-ROM recognition            | 🚫 | 🚫 | 🚫 | 🚫 |
-| BD-R recognition              | 🚫 | 🚫 | 🚫 | 🚫 |
-| BD-RE recognition             | 🚫 | 🚫 | 🚫 | 🚫 |
-| CD burning                    | ❔ | ❔ | ❔ | ❔ |
-| DVD burning                   | ❔ | ❔ | ✅ | ❌ |
-| BD burning                    | 🚫 | 🚫 | 🚫 | 🚫 |
-| CD-RW erasing                 | ❔ | ❔ | ❔ | ❔ |
-| DVD-RW erasing                | ❔ | ❔ | ✅ | ❌ |
-| DVD+RW erasing                | ❔ | ❔ | ❔ | ❔ |
-| BD-RE erasing                 | 🚫 | 🚫 | 🚫 | 🚫 |
-| USB power                     | ✅ | ✅ | ✅ | ⚠️ |
-| USB connection                | ✅ | ✅ | ⚠️ | ⚠️ |
-| device detection by Windows   | ✅ | ✅ | ✅ | ⚠️ |
-| device detection by Linux     | ❔ | ❔ | ✅ | ⚠️ |
-| ImgBurn compatibility         | ❔ | ❔ | ✅ | ⚠️ |
-| K3b compatibility             | ❔ | ❔ | ❔ | ❔ |
-| software-controlled eject     | ✅ | ✅ | ✅ | ⚠️ |
+| Capability | Before 2026 | Jan-Jun 2026 | Jul-Oct 2026 | Nov 2026 | After retirement
+| --- | --- | --- | --- | --- | --- |
+| tray opening                  | ✅ | ✅ | ✅ | ⚠️ | ❌ |
+| tray closing                  | ✅ | ✅ | ✅ | ⚠️ | ❌ |
+| tray locking                  | ✅ | ✅ | ⚠️ | ❌ | ❌ |
+| manual emergency eject        | ✅ | ✅ | ✅ | ⚠️ | ❌ |
+| disc spinning                 | ✅ | ✅ | ✅ | ⚠️ | ❌ |
+| CD-ROM recognition            | ✅ | ✅ | ✅ | ❌ | ❌ |
+| CD-R recognition              | ❔ | ❔ | ❔ | ❔ | ❔ |
+| CD-RW recognition             | ❔ | ❔ | ❔ | ❔ | ❔ |
+| DVD-ROM recognition           | ❔ | ❔ | ❔ | ❔ | ❔ |
+| DVD-R recognition             | ❔ | ❔ | ✅ | ❌ | ❌ |
+| DVD-RW recognition            | ❔ | ❔ | ✅ | ❌ | ❌ |
+| DVD+R recognition             | ❔ | ❔ | ❔ | ❔ | ❔ |
+| DVD+RW recognition            | ❔ | ❔ | ❔ | ❔ | ❔ |
+| BD-ROM recognition            | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 |
+| BD-R recognition              | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 |
+| BD-RE recognition             | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 |
+| CD burning                    | ❔ | ❔ | ❔ | ❔ | ❔ |
+| DVD burning                   | ❔ | ❔ | ✅ | ❌ | ❌ |
+| BD burning                    | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 |
+| CD-RW erasing                 | ❔ | ❔ | ❔ | ❔ | ❔ |
+| DVD-RW erasing                | ❔ | ❔ | ✅ | ❌ | ❌ |
+| DVD+RW erasing                | ❔ | ❔ | ❔ | ❔ | ❔ |
+| BD-RE erasing                 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 |
+| USB power                     | ✅ | ✅ | ✅ | ⚠️ | ❌ |
+| USB connection                | ✅ | ✅ | ⚠️ | ⚠️ | ❌ |
+| device detection by Windows   | ✅ | ✅ | ✅ | ⚠️ | ❌ |
+| device detection by Linux     | ❔ | ❔ | ✅ | ⚠️ | ❌ |
+| ImgBurn compatibility         | ❔ | ❔ | ✅ | ⚠️ | ❌ |
+| K3b compatibility             | ❔ | ❔ | ❔ | ❔ | ❔ |
+| software-controlled eject     | ✅ | ✅ | ✅ | ⚠️ | ❌ |
 
 ## Failure history
 - Failed to burn a DVD-R
