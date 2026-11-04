@@ -13,8 +13,8 @@ Legend:
 
 | Capability | Before 2026 | Jan-Jun 2026 | Jul-Oct 2026 | Nov 2026 | After retirement
 | --- | --- | --- | --- | --- | --- |
-| tray opening                  | ✅ | ✅ | ✅ | ⚠️ | ❌ |
-| tray closing                  | ✅ | ✅ | ✅ | ⚠️ | ❌ |
+| tray opening                  | ✅ | ✅ | ✅ | ⚠️ | ⚠️ |
+| tray closing                  | ✅ | ✅ | ✅ | ⚠️ | ⚠️ |
 | tray locking                  | ✅ | ✅ | ⚠️ | ❌ | ❌ |
 | manual emergency eject        | ✅ | ✅ | ✅ | ⚠️ | ❌ |
 | disc spinning                 | ✅ | ✅ | ✅ | ⚠️ | ❌ |
