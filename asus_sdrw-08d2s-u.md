@@ -11,7 +11,7 @@ Legend:
 - never worked: 🚫
 - not tested: ❔
 
-| Capability | Before 2026 | Jan-Jun 2026 | Jul-Oct 2026 | Nov 2026 | After retirement
+| Capability | Before 2026 | Jan-Jun 2026 | Jul-Oct 2026 | Nov 2026 | After retirement |
 | --- | --- | --- | --- | --- | --- |
 | tray opening                  | ✅ | ✅ | ✅ | ⚠️ | ⚠️ |
 | tray closing                  | ✅ | ✅ | ✅ | ⚠️ | ⚠️ |
