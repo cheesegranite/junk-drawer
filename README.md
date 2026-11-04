@@ -1,7 +1,7 @@
 # junk-drawer
 random stuff i made that doesnt deserve its own repo
 
-will have 1 commits per sometimes
+will have 1 commit per sometimes
 
 # files
 all files, from oldest to newest
