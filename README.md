@@ -1,27 +1,29 @@
 # junk-drawer
 random stuff i made that doesnt deserve its own repo
 
-will have 5 commits per sometimes
+will have 1 commits per sometimes
 
 # files
 all files, from oldest to newest
 
 ###### oldest
 
-[README.md](https://dollchan.net/bytebeat/#4AADw9kVdzLEKgCAQgOG9p5AGURv0TrPDwR4kGh0kiKijlh6+aGz7+IffWrHt5azlEoDkxFHLvtX1WGrDBo1R7UA9tRPnDF762QJ2vfXaKJYeh0gjS3SBRkyQQN//rLhDF4POOaTXED+9t6Af)
+[README](https://dollchan.net/bytebeat/#4AADw9kVdzLEKgCAQgOG9p5AGURv0TrPDwR4kGh0kiKijlh6+aGz7+IffWrHt5azlEoDkxFHLvtX1WGrDBo1R7UA9tRPnDF762QJ2vfXaKJYeh0gjS3SBRkyQQN//rLhDF4POOaTXED+9t6Af)
 
-[bugs.txt](https://github.com/cheesegranite/junk-drawer/blob/main/bugs.txt)
+[bugs](https://github.com/cheesegranite/junk-drawer/blob/main/bugs.txt)
 
-[python_obfuscator.py](http://ha.mr#👩🏻‍🚀👩🏿‍🦲🖇️🧑🏻‍🤝‍🧑🏿🇩🇴😥🧑🏿‍🦱🏃🏻‍♀️‍➡️🧎🏾‍➡️🚣🏻‍♀️👩🏾‍🎤👩🏽‍❤️‍👨🏼🧛🏽‍♀️🧑🏿🧑🏽‍💼🌰📺🧙🏽‍♀️🧎🏿‍♂️💆🏻‍♀️👩🏼‍🦳🪾👩🏼‍❤️‍💋‍👩🏽👨🏼‍❤️‍💋‍👨🏾)
+[python obfuscator](http://ha.mr#👩🏻‍🚀👩🏿‍🦲🖇️🧑🏻‍🤝‍🧑🏿🇩🇴😥🧑🏿‍🦱🏃🏻‍♀️‍➡️🧎🏾‍➡️🚣🏻‍♀️👩🏾‍🎤👩🏽‍❤️‍👨🏼🧛🏽‍♀️🧑🏿🧑🏽‍💼🌰📺🧙🏽‍♀️🧎🏿‍♂️💆🏻‍♀️👩🏼‍🦳🪾👩🏼‍❤️‍💋‍👩🏽👨🏼‍❤️‍💋‍👨🏾)
 
-[bytebeats.md](https://github.com/cheesegranite/junk-drawer/blob/main/bytebeats.md)
+[bytebeats](https://github.com/cheesegranite/junk-drawer/blob/main/bytebeats.md)
 
-[timer.py](https://github.com/cheesegranite/junk-drawer/blob/main/timer.py)
+[timer](https://github.com/cheesegranite/junk-drawer/blob/main/timer.py)
 
-[badcompressor.py](https://github.com/cheesegranite/junk-drawer/blob/main/badcompressor.py)
+[bad compressor](https://github.com/cheesegranite/junk-drawer/blob/main/badcompressor.py)
 
-[fbvlve_anything.py](https://github.com/cheesegranite/junk-drawer/blob/main/fbvlve_anything.py)
+[fbvlve anything](https://github.com/cheesegranite/junk-drawer/blob/main/fbvlve_anything.py)
 
-[bytebeat_obfuscator.py](https://ha.mr#👩🏻‍🚀👩🏿‍🦲🖇️🧑🏻‍🤝‍🧑🏿🇩🇴😥🧑🏿‍🦱🏃🏻‍♀️‍➡️🧎🏾‍➡️🚣🏻‍♀️👩🏾‍🎤👩🏽‍❤️‍👨🏼🧛🏽‍♀️🧑🏿🧑🏽‍💼🌰📺🧙🏽‍♀️🧎🏿‍♂️💆🏻‍♀️👩🏼‍🦳🪾👩🏼‍❤️‍💋‍👩🏽👨🏼‍❤️‍💋‍👨🏾 )
+[bytebeat obfuscator](https://ha.mr#👩🏻‍🚀👩🏿‍🦲🖇️🧑🏻‍🤝‍🧑🏿🇩🇴😥🧑🏿‍🦱🏃🏻‍♀️‍➡️🧎🏾‍➡️🚣🏻‍♀️👩🏾‍🎤👩🏽‍❤️‍👨🏼🧛🏽‍♀️🧑🏿🧑🏽‍💼🌰📺🧙🏽‍♀️🧎🏿‍♂️💆🏻‍♀️👩🏼‍🦳🪾👩🏼‍❤️‍💋‍👩🏽👨🏼‍❤️‍💋‍👨🏾 )
+
+[ASUS SDRW-08D2S-U](https://github.com/cheesegranite/junk-drawer/blob/main/asus_sdrw-08d2s-u.md)
 
 ###### newest
