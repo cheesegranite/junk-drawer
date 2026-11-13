@@ -88,7 +88,7 @@ if 1:
     print(f"{len(unique_special)} unique special characters")
 
     obfuscated = ""
-    obfuscated += f"/* made with cheesegranite's obfuscator */t?{var_prefix}n(t):(("
+    obfuscated += f"/* https://github.com/cheesegranite/junk-drawer/blob/main/bytebeat_obfuscator.py */t?{var_prefix}n(t):(("
     obfuscated += var_prefix + "z=x=>x+1,"
     obfuscated += var_prefix + "p=parseInt,"
     obfuscated += var_prefix + "s=String,"
